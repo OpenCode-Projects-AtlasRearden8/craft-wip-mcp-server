@@ -1,6 +1,10 @@
-*.pyc
-__pycache__/
-.pytest_cache/
-data/backups/
 *.bak
+*.pyc
+.env
+.env.*
+.pytest_cache/
 .venv/
+__pycache__/
+data/backups/
+dist/*.tmp
+node_modules/
